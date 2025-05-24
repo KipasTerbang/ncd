@@ -1,0 +1,1001 @@
+trial,image_path,true_label,finch_cluster,kmeans_cluster
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104828.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104830.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104833.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104836.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104837.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104839.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104841.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104843.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104845.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104854.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104856.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104857.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104900.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104901.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104911.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104913.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104914.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104917.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104919.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104921.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104923.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104924.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104926.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104927.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104929.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104944.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104947.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104949.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104951.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104953.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104955.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104957.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104958.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_104959.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105000.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105002.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105004.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105022.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105024.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105026.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105028.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105029.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105031.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105032.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105059.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105102.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105106.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105118.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105120.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105122.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105124.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105125.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105128.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105130.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105132.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105134.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105136.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105154.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105156.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105157.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105159.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105200.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105202.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105203.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105205.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105207.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105209.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105217.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105228.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105229.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105231.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241106_105234.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085755.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085757.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085759.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085806.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085809.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085816.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085819.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085822.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085824.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085827.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085832.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085835.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_085842.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092538.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092542.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092544.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092547.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092549.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092600.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092604.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092607.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092610.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092613.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092633.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092636.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092638.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092640.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alocasia macrorrhizos\IMG_20241123_092643.jpg,0,0,3
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150110.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150111.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150113.jpg,1,1,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150117.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150119.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150120.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150122.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150125.jpg,1,2,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150127.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150128.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150130.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150131.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150133.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150134.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150136.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150138.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150139.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150141.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150142.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150143.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150146.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150148.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150150.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150152.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150154.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150201.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150202.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150204.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150205.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150207.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150208.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150210.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150212.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150213.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150214.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241109_150216.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094118.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094120.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094122.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094125.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094128.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094131.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094135.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094145.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094149.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094158.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094205.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094241.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094247.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094251.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094256.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094259.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094303.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094306.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094308.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094312.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094314.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094319.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094323.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094327.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094332.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094336.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094341.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094349.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094353.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094358.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094403.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094408.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094413.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094416.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094420.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094424.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094427.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094431.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094435.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094439.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094516.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094518.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094522.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094525.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094530.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094534.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094537.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094541.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094545.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_094550.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095301.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095311.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095316.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095319.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095323.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095326.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095329.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095332.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095335.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095337.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095340.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095344.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095346.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia angustiloba Miq\IMG_20241123_095349.jpg,1,1,6
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241019_115223.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241019_115228.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241019_115235.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241019_115240.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101002.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101005.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101007.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101008.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101010.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101012.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101013.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101017.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101020.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101021.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101023.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101026.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101029.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101031.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101033.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101035.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101036.jpg,2,2,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101038.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101041.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101042.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101055.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101057.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101101.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101127.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101129.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101132.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101134.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101137.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101139.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101145.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101147.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101149.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101151.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101207.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101209.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101211.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101213.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101215.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241106_101220.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113043.jpg,2,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113045.jpg,2,2,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113048.jpg,2,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113051.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113052.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113053.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113059.jpg,2,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113102.jpg,2,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113104.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113109.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113110.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113111.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113113.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113116.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113117.jpg,2,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113122.jpg,2,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113123.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113125.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113130.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113131.jpg,2,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113142.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113144.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113146.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113149.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113150.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113153.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113154.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113227.jpg,2,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113228.jpg,2,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113230.jpg,2,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113231.jpg,2,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113233.jpg,2,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113234.jpg,2,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113238.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113241.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113242.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113243.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113245.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113256.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113258.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113259.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113300.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113301.jpg,2,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113308.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113310.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113311.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113312.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113313.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113316.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113326.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113328.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113329.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113330.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113332.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113333.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113334.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Alstonia iwahigensis Elmer\IMG_20241125_113336.jpg,2,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144330.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144333.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144335.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144337.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144343.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144344.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144345.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144346.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144348.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144356.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144359.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144400.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144402.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144409.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144412.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144416.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144418.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144423.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144425.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144427.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144428.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144430.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144431.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144438.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144440.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144441.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144444.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144449.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144456.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144459.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144501.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144503.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144512.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144514.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144518.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144519.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144521.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144526.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144532.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144535.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144537.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144538.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144540.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144542.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144549.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144552.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144554.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144557.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144558.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144600.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144603.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144605.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144606.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144611.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144613.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144614.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144620.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144622.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144627.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144628.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144629.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144635.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144640.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144644.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144652.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144655.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144657.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144702.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144707.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144709.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144711.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144721.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241109_144725.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101223.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101227.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101235.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101243.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101247.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101255.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101303.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101305.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101313.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101315.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101317.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101324.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101325.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101327.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101333.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101342.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101344.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101345.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101347.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101349.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101354.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101356.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101357.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101359.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101401.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101403.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Ctenanthe burle-marxii H.Kenn\IMG_20241123_101405.jpg,3,4,0
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132714.jpg,4,5,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132715.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132716.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132717.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132719.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132720.jpg,4,5,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132726.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132727.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132728.jpg,4,5,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132732.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132733.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132736.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241019_132739.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102351.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102353.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102356.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102358.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102401.jpg,4,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102403.jpg,4,5,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102405.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102409.jpg,4,5,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102411.jpg,4,5,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102413.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102419.jpg,4,5,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102422.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102424.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102426.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102428.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102430.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102433.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102435.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102437.jpg,4,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102439.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102441.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102443.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102445.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102446.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102448.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102450.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102453.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102455.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102459.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102501.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102503.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102504.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102506.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102508.jpg,4,5,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102510.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102542.jpg,4,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102544.jpg,4,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102546.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102549.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102551.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102555.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102557.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102602.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102604.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102606.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102608.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102610.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102614.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102616.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102622.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102624.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102627.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102629.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102634.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102636.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102638.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102640.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102642.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102644.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102645.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102647.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102649.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102654.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102658.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102659.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102702.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102704.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102705.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102707.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102753.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102755.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102757.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102800.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102803.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102805.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102807.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102810.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102813.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102816.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102818.jpg,4,6,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102820.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102823.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102826.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102829.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102832.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102840.jpg,4,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Diospyros borneensis Hiern\IMG_20241123_102841.jpg,4,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094830.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094831.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094832.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094834.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094835.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094836.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094837.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094838.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094839.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094841.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094842.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094844.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094845.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094846.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094847.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094849.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094852.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094853.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094854.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094855.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094857.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094858.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094859.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094900.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094902.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094903.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094904.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094905.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094906.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094908.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094910.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094911.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094914.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094915.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094917.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094918.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094920.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094924.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094925.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094926.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094927.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094929.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094930.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094932.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094934.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094935.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094936.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094938.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094940.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094941.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094942.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094944.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094949.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094950.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094951.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094953.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094954.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094955.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094956.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094957.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_094958.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095000.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095001.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095003.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095005.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095006.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095011.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095012.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095013.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095016.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095018.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095020.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095021.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095034.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095035.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095036.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095045.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095047.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095049.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095053.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095055.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095057.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095058.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095059.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095100.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095101.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095102.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095123.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095127.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095128.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095129.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095130.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095131.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095132.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095134.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095136.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095138.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095139.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095140.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Dracaena trifasciata (Prain) Mabb\IMG_20241125_095141.jpg,5,7,7
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133742.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133744.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133749.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133751.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133756.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133758.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133804.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133806.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133814.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133815.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133821.jpg,6,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133823.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133829.jpg,6,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133831.jpg,6,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133838.jpg,6,2,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133840.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133847.jpg,6,2,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133849.jpg,6,2,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133851.jpg,6,2,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133855.jpg,6,2,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133856.jpg,6,2,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133924.jpg,6,5,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133926.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133931.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133933.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133938.jpg,6,5,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133939.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133946.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133947.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133952.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_133955.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134001.jpg,6,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134003.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134008.jpg,6,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134010.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134058.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134100.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134104.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134105.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134106.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134109.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134115.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134116.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134117.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134124.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134125.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134126.jpg,6,3,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134131.jpg,6,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134132.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134204.jpg,6,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134216.jpg,6,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134217.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134221.jpg,6,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134221_1.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134228.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134229.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134235.jpg,6,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134236.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134242.jpg,6,3,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134243.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134248.jpg,6,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134249.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134250.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134255.jpg,6,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134256.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134304.jpg,6,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134305.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134324.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134325.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134328.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134330.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134334.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134335.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134338.jpg,6,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134344.jpg,6,5,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134345.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134353.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134354.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134359.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134403.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134405.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134414.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134415.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134425.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134426.jpg,6,5,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134709.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134711.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134714.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134719.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134727.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134732.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241109_134737.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241125_092630.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241125_092633.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241125_092635.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241125_092638.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241125_092722.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241125_092726.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241125_092728.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Eusideroxylon zwageri Teijsm. & Binn\IMG_20241125_092729.jpg,6,3,4
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103808.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103810.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103811.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103816.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103817.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103818.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103820.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103821.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103822.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103824.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103826.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103828.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103835.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103837.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103838.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103840.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103841.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103843.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103845.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103847.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103848.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103850.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103851.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103852.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103854.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103855.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103856.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103857.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103859.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103900.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103901.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103902.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103904.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103906.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103908.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103908_1.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103910.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103911.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103913.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103915.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103920.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103922.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103923.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103925.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103926.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103928.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103929.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103930.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103933.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103934.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103935.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103936.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103937.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103940.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103942.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103945.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103946.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103948.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103950.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103953.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103955.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103956.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103957.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_103959.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104001.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104002.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104005.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104006.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104008.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104009.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104200.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104202.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104203.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104204.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104206.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104207.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104208.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104211.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104213.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104214.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104216.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104218.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104219.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104220.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104222.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104223.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104225.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104227.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104228.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104230.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104232.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104236.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104238.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104239.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104243.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104246.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104247.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104249.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104251.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Excoecaria cochinchinensis Lour\IMG_20241125_104252.jpg,7,8,5
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120041.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120042.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120043.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120046.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120051.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120053.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120056.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120058.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120059.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120100.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120101.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120109.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120110.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120111.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120113.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120115.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120116.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120122.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120124.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120125.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120131.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120132.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120137.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120138.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120139.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120141.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120154.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120155.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120202.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120203.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120204.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120208.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120209.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120210.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120214.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120215.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120216.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120220.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120221.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120223.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120228.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120229.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120230.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120231.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120239.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120240.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_120241.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121922.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121923.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121924.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121926.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121927.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121948.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121950.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121951.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121957.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121958.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_121959.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122007.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122009.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122010.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122016.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122017.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122019.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122022.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122023.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122025.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122039.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122040.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122041.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122042.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122603.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122604.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122606.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122610.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122611.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122612.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122616.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122618.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122619.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122647.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122649.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122650.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122651.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122653.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122655.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122658.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122700.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122702.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122703.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122723.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122724.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122725.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122726.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122728.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122730.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122731.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122737.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122737_1.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hibiscus rosa-sinensis L\IMG_20241125_122739.jpg,8,9,2
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241106_090521.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132836.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132837.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132839.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132843.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132844.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132848.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132849.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132854.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132859.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132900.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132902.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132903.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132906.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132908.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132912.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132913.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132916.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132917.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132920.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132923.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132923_1.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132927.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132928.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132932.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132932_1.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132945.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132946.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132948.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132952.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132953.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_132958.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133003.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133006.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133009.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133011.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133013.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133016.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133017.jpg,9,2,1
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133019.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133030.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133032.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133034.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133038.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133041.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133042.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133047.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133048.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241109_133052.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090003.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090007.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090011.jpg,9,2,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090018.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090024.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090028.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090034.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090039.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090048.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090053.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090102.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090107.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090112.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241115_090119.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084345.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084349.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084352.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084355.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084359.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084401.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084407.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084410.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084413.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084415.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084418.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084420.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084422.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084425.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084427.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084434.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084437.jpg,9,2,8
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084440.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084448.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084450.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084452.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084454.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084457.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084502.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084505.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084508.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084511.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084513.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084516.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084530.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084532.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084533.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084535.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084537.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084539.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084541.jpg,9,2,9
+2,C:\Users\HP\novelty\split_datasets\trial_2\42labeled_10unlabeled\unlabeled\Hura crepitans L\IMG_20241123_084543.jpg,9,2,9
